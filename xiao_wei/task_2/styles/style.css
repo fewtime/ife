@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #dedede;
+}
+
+header nav {
+    height: 60px;
+    background-color: #333;
+    position: relative;
+}
+
+header img {
+    height: 60px;
+    padding-left: 40px;
+}
+
+header nav ul {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+header nav ul li {
+    text-align: center;
+    width: 60px;
+    list-style: none;
+    float: left;
+    padding: 20px 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: #565656;
+    transition: 0.4s color;
+}
+
+main article, main section, aside{
+    margin: 20px;
+    background-color: #fff;
+    padding: 30px 20px;
+    box-shadow: 1px 1px 2px 1px #848484;
+}
+
+main article h1 {
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+main article h2 {
+    font-size: 18px;
+    color: #848484;
+    margin-bottom: 10px;
+}
+
+main article span {
+    font-size: 12px;
+    color: #808080;
+    line-height: 30px;
+}
+
+main article p {
+    text-indent: 2em;
+}
+
+article ul li {
+    margin-left: 22px;
+    list-style: none;
+}
+
+section dl dd {
+    border: 1px solid #ccc;
+    width: 128px;
+    height: 128px;
+    margin: 16px;
+    text-align: center;
+}
+
+section dl dd span {
+    font-size: 12px;
+    line-height: 12px;
+}
+
+section dl dd img {
+    margin: 10px;
+    width: 100px;
+    height: 80px;
+}
+
+article ol {
+    margin: 0 40px 20px;
+}
+
+article table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+article table caption {
+    text-align: left;
+}
+
+article table thead {
+    background: #000;
+    color: #fff;
+    text-align: left;
+}
+
+article table tbody tr td {
+    border: 1px solid #ccc;
+}
+
+article table tbody tr.bottom td {
+    background: #ccc;
+    font-weight: bolder;
+}
+
+aside h1 {
+    display: block;
+    border-left: 2px solid #ccc;
+    padding-left: 10px;
+    line-height: 36px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+aside label {
+    float: left;
+    text-align: right;
+    width: 35%;
+    font-size: 14px;
+    line-height: 22px;
+    padding-right: 16px;
+}
+
+aside span {
+    margin-left: 35%;
+    padding-left: 16px;
+    color: #ccc;
+    font-size: 12px;
+}
+
+aside button {
+    background: #3355D0;
+    color: #fff;
+    width: 100%;
+    height: 34px;
+    line-height: 34px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+footer {
+    background: #000;
+    color: #fff;
+    height: 70px;
+    padding-top: 20px;
+    text-align: center;
+}
