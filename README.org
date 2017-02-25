@@ -2,6 +2,7 @@
 ** TODO [#A] 小薇学堂
 *** DONE 任务一：零基础 HTML 编码
     CLOSED: [2017-02-25 Sat 15:44]
+    [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_1/index.html][Demo]]
 *** TODO 任务二：零基础 HTML 及 CSS 编码（一）
 *** TODO 任务三：三栏式布局
 *** TODO 任务四：定位和居中问题
@@ -12,4 +13,4 @@
 *** TODO 任务九：使用 HTML/CSS 实现一个复杂页面
 *** TODO 任务十：Flexbox 布局练习
 *** TODO 任务十一：移动 Web 页面布局实践
-*** TODO 任务十二：学习 CSS 3的新特性
+*** TODO 任务十二：学习 CSS 3 的新特性
