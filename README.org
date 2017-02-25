@@ -3,7 +3,9 @@
 *** DONE 任务一：零基础 HTML 编码
     CLOSED: [2017-02-25 Sat 15:44]
     [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_1/index.html][Demo]]
-*** TODO 任务二：零基础 HTML 及 CSS 编码（一）
+*** DONE 任务二：零基础 HTML 及 CSS 编码（一）
+    CLOSED: [2017-02-25 Sat 17:52]
+    [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_2/index.html][Demo]]
 *** TODO 任务三：三栏式布局
 *** TODO 任务四：定位和居中问题
 *** TODO 任务五：零基础 HTML 及 CSS 编码（二）
