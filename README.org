@@ -6,7 +6,9 @@
 *** DONE 任务二：零基础 HTML 及 CSS 编码（一）
     CLOSED: [2017-02-25 Sat 17:52]
     [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_2/index.html][Demo]]
-*** TODO 任务三：三栏式布局
+*** DONE 任务三：三栏式布局
+    CLOSED: [2017-02-28 Tue 20:37]
+    [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_3/index.html][Demo]]
 *** TODO 任务四：定位和居中问题
 *** TODO 任务五：零基础 HTML 及 CSS 编码（二）
 *** TODO 任务六：通过 HTML 及 CSS 模拟报纸排版
