@@ -12,8 +12,9 @@
 *** DONE 任务四：定位和居中问题
     CLOSED: [2017-03-01 Wed 17:23]
     [[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_4/index.html][Demo]]
-*** TODO 任务五：零基础 HTML 及 CSS 编码（二）
-*** TODO 任务六：通过 HTML 及 CSS 模拟报纸排版
+*** DONE 任务六：通过 HTML 及 CSS 模拟报纸排版
+    CLOSED: [2017-03-01 Wed 18:09]
+[[https://htmlpreview.github.io/?https://github.com/fewtime/ife/blob/master/xiao_wei/task_5/index.html][Demo]]
 *** TODO 任务七：实现常见的技术产品官网的页面架构及样式布局
 *** TODO 任务八：响应式网格（栅格化）布局
 *** TODO 任务九：使用 HTML/CSS 实现一个复杂页面
